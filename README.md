@@ -1,0 +1,1 @@
+A SQL project aimed at locating sources of water shortages in different loactions in Maji Ndogo
